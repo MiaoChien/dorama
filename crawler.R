@@ -119,6 +119,7 @@ special.name = c(1, program.timeinfo$cumsum+1)
  
  result = data.frame(name, program.time, director, rate)
  
+ result
  
  
  
